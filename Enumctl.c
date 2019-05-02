@@ -124,7 +124,7 @@ get_user_id (pid_t pid, uid_t * uid, char *group)
 
 
 /*
- * Request to systemd, through sd-bus daemon,
+ * Request to systemd, through D-bus daemon,
  * all active units which match @pattern.
  * @return the message object.
  */
