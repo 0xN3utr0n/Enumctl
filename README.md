@@ -1,7 +1,7 @@
 # Enumctl
  Simple Linux process enumeration POC which uses D-bus's systemd interface. It's inner 
  workings are quite similar to systemd-cgls, but with the advantage of bypassing procfs hardening.
- The final goal is just to bring forward interest over D-bus's API and its potencial for next-gen Linux
+ The final goal is just to bring forward interest over D-bus's API and its potential for next-gen Linux
  malware.
  
  ### Advantages over classic enumeration techniques
