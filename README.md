@@ -15,7 +15,11 @@
  * Systemd 221 or higher required (ej. Centos7 217)
  
  ## Installing
- ``` make ```
+ ``` 
+ git clone https://github.com/0xN3utr0n/Enumctl.git
+ cd Enumctl
+ make 
+ ```
  
  ## Usage
  ```
