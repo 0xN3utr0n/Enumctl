@@ -6,7 +6,7 @@
  
  ### Advantages over classic enumeration techniques
  * Stealthier
- * Less and more efficient code
+ * More efficient and less code
  * "hidepid=2 /proc" bypass
  
  ### Disadvantages over classic enumeration techniques
