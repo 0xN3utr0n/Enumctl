@@ -17,6 +17,7 @@
 ## Prerequisites
 ```
 libsystemd-dev
+pkg-config
 systemd V221 or higher
 gcc 4.9 or higher
 ```
